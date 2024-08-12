@@ -10,4 +10,5 @@ or from magit.
   #+begin_quote
   - c c
   - P u
+
   #+end_quote
