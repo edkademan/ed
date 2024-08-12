@@ -1,0 +1,11 @@
+* Preamble                                                         :noexport:
+#+title: Ed Kademan's personal page
+#+options: toc:nil num:nil
+
+* Report Section
+- The [[file:pain/report.html][results]] of the study.
+- Further [[file:pain/report.html][conclusions]].
+
+* Exploratory Section
+- Elaborate things
+- Again

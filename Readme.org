@@ -1,5 +1,13 @@
 Ed Kademan's personal git repo.
 
-* [2015-05-10 Sun] webpage
-* [2018-03-11 Sun] another
-
+After I edit the files in this repo locally I can publish them to the
+web from the command line
+  #+begin_quote
+  git commit --all --message="commit message"
+  git push
+  #+end_quote
+or from magit.
+  #+begin_quote
+  c c
+  P u
+  #+end_quote
