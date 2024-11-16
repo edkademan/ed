@@ -10,5 +10,6 @@ or from magit.
   #+begin_quote
   - c c
   - P u
-
   #+end_quote
+
+I---and the public---can then view them at ed.kademan.org.
