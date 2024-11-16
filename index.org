@@ -8,4 +8,4 @@
 
 * Exploratory Section
 - Elaborate things
-- Again
+- Elaborate again
